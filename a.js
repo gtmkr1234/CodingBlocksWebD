@@ -23,6 +23,9 @@
 // var v = 12344;
 // console.log(typeof v);
 
-const a=4;
-const a=7;
-console.log(a);
+// const a=4;
+// const a=7;
+// console.log(a);
+//Gives Error
+
+
