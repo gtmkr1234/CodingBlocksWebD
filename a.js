@@ -1,5 +1,5 @@
-let a = 55;
-console.log(a);
+// let a = 55;
+// console.log(a);
 
 // Primitive Dayatype in JS
 // Number
@@ -22,3 +22,7 @@ console.log(a);
 
 // var v = 12344;
 // console.log(typeof v);
+
+const a=4;
+const a=7;
+console.log(a);
