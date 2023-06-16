@@ -10,8 +10,15 @@ console.log(a);
 // BigInt
 // Symbol
 
-let b = '1234';
-console.log(typeof b);
+/*
+    In var, we can redeclare and reassign a variable
+    but, in let, we can only reassign the variable
 
-var v = 12344;
-console.log(typeof v);
+
+*/
+
+// let b = '1234';
+// console.log(typeof b);
+
+// var v = 12344;
+// console.log(typeof v);
