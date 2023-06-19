@@ -42,5 +42,11 @@ but in null, it is a value in itself and it is given during the assignment of va
 
 */
 
-let name;
-console.log(typeof name);
+// let name;
+// console.log(typeof name);
+
+let score=50;
+let t=score==50;
+console.log(t); // Returns true
+
+
