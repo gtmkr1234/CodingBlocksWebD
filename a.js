@@ -29,3 +29,15 @@
 //Gives Error
 
 
+
+
+/*
+
+Difference between Undefined and Null
+
+undefined states the state of the variable as it has not been initialized
+
+but in null, it is a value in itself and it is given during the assignment of value ;;
+
+
+*/
