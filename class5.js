@@ -14,3 +14,16 @@ function a(){
 
 // a()(); // Calling the function b that is returned by function a 
 
+let arr = [1,2,3,4, 'hello', 'gla', true, false];
+
+function fun(arr){
+    var res = []
+    for(let i of arr){
+        if(typeof i === 'number'){
+            res.push(i);
+        }
+    }
+    return res;
+}
+
+console.log(fun(arr));
